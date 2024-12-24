@@ -1,0 +1,7 @@
+File,Dimensions,Bitpix,NAXIS,Object,Instrument,Date
+/home/parlange/datasets/mini_sample/metadata_catalog.fits,,8,0,Unknown,Unknown,Unknown
+/home/parlange/datasets/mini_sample/images/image_catalog_y.fits,"(20000, 61, 61)",-64,3,Unknown,Unknown,Unknown
+/home/parlange/datasets/mini_sample/images/image_catalog_i.fits,"(20000, 61, 61)",-64,3,Unknown,Unknown,Unknown
+/home/parlange/datasets/mini_sample/images/image_catalog_z.fits,"(20000, 61, 61)",-64,3,Unknown,Unknown,Unknown
+/home/parlange/datasets/mini_sample/images/image_catalog_r.fits,"(20000, 61, 61)",-64,3,Unknown,Unknown,Unknown
+/home/parlange/datasets/mini_sample/images/image_catalog_g.fits,"(20000, 61, 61)",-64,3,Unknown,Unknown,Unknown
