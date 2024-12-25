@@ -1,5 +1,0 @@
-Model Ranking Based on AUC-ROC:
-1. CaiT - Average AUC-ROC: nan
-
-Model Ranking Based on F1 Score:
-1. CaiT - Average F1 Score: nan
