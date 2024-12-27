@@ -1,17 +1,17 @@
 Model Ranking Based on AUC-ROC:
-1. MLP-Mixer - Average AUC-ROC: 0.9987
-2. Twins_SVT - Average AUC-ROC: 0.9983
-3. DeiT3 - Average AUC-ROC: 0.9982
-4. Twins_PCPVT - Average AUC-ROC: 0.9979
-5. DeiT - Average AUC-ROC: 0.9978
-6. ViT - Average AUC-ROC: 0.9966
-7. PiT - Average AUC-ROC: 0.9965
+1. PiT - Average AUC-ROC: 1.0000
+2. DeiT3 - Average AUC-ROC: 1.0000
+3. DeiT - Average AUC-ROC: 1.0000
+4. Twins_SVT - Average AUC-ROC: 1.0000
+5. MLP-Mixer - Average AUC-ROC: 0.9999
+6. Twins_PCPVT - Average AUC-ROC: 0.9999
+7. ViT - Average AUC-ROC: 0.9999
 
 Model Ranking Based on F1 Score:
-1. Twins_SVT - Average F1 Score: 0.9932
-2. Twins_PCPVT - Average F1 Score: 0.9930
-3. MLP-Mixer - Average F1 Score: 0.9901
-4. DeiT - Average F1 Score: 0.9893
-5. DeiT3 - Average F1 Score: 0.9877
-6. ViT - Average F1 Score: 0.9786
-7. PiT - Average F1 Score: 0.9700
+1. Twins_PCPVT - Average F1 Score: 0.9993
+2. DeiT3 - Average F1 Score: 0.9991
+3. DeiT - Average F1 Score: 0.9990
+4. ViT - Average F1 Score: 0.9989
+5. PiT - Average F1 Score: 0.9988
+6. Twins_SVT - Average F1 Score: 0.9983
+7. MLP-Mixer - Average F1 Score: 0.9982
